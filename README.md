@@ -1,8 +1,8 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Jogo da Memória 🙃
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo da memória com a temática de Super Mario! 
+Esse é o repositório da aula de Javascript, da plataforma digital Inovvation One, na qual realizou um jogo da memória com a temática de Super Mario! 
 
-### Os requisitos são:
+### Tecnologias utilizadas:
 
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
