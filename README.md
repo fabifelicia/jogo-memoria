@@ -1,6 +1,6 @@
 # Jogo da Memória 🙃
 
-Esse é o repositório da aula de Javascript, da plataforma digital Inovvation One, na qual realizou um jogo da memória com a temática de Super Mario! 
+Esse é o repositório da aula de Javascript, da plataforma [Digital Innovation One](https://web.digitalinnovation.one), na qual realizou um jogo da memória com a temática de Super Mario! 
 
 ### Tecnologias utilizadas:
 
